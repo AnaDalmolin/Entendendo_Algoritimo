@@ -1,4 +1,4 @@
-###Aqui Vou Trazer todos os exercício do Livro Entendendo Algoritmos
+### Aqui Vou Trazer todos os exercício do Livro Entendendo Algoritmos
 
 ### Capítulo 1: Introdução aos Algoritmos
 
